@@ -1,0 +1,214 @@
+li {
+    list-style: none;
+    display: inline;
+}
+.section1 {
+    background-image: url(img/banner1.png);
+    background-size: cover;
+    height: 850px;
+}
+.top1 {
+    display: flex;
+    padding-top: 50px;
+    align-items: center;
+}
+.top1 a {
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.top1 img {
+    width: 123px;
+    height: 30px;
+}
+.top1 a {
+    padding: 15px;
+}
+.top2 a {
+    color: #784B2E;
+    font-family: 'Inter';
+    text-decoration: none;
+    width: 183px;
+    height: 50px;
+    background-color: #FFFFFF;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 18px;
+}
+h1 { 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 56px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.top2 {
+    padding-top: 220px;
+}
+.top2 p {
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+}
+.photo img {
+    width: 510px;
+    height: 327px;
+}
+.section2 {
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.text img {
+    width: 144px;
+    height: 40px;
+}
+h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.text p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 200%;
+    color: #333333;
+}
+.con2, .con3 {
+    display: flex;
+}
+.text {
+    margin-left: 140px;
+}
+.section3, .section4 h2 {
+    text-align: center;
+    margin-top: 200px;
+}
+h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+.con3 p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 175%;
+    color: #969696;
+}
+h4 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    color: #784B2E;
+}
+.card4 h4 { 
+    font-family: 'Inter' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 30px !important;
+    line-height: 36px !important;
+    color: #BFBCBA !important;
+}
+.card1, .card2, .card3, .card4, .card5, .card6 {
+    width: 30%;
+    height: 250px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 25px;
+    padding-left: 30px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.con3 {
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card2, .card3, .card5, .card6 {
+    margin-left: 10px;
+}
+.review1, .review2 {
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    border-radius: 25px;
+    width: 50%;
+    height: 300px;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 30px;
+    margin-bottom: 100px;
+    margin-top: 20px;
+}
+.picandimg img {
+    width: 87px;
+    height: 89px;
+}
+.picandimg {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.section5 {
+    background-image: url(img/banner2.png);
+    height: 425px;
+    display: flex;
+}
+.section5 h5 {
+    color: #ffffff;
+}
+.section5 p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 200%;
+    color: #FFFFFF;
+}
+.rew {
+    display: flex;
+}
+.review1 {
+    margin-right: 20px;
+}
+.rew p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 175%;
+    color: #333333;
+}
+.section5 .container {
+    padding-top: 150px;
+}
+.text13371 {
+    width: 50%;
+}
+.text13372 {
+    width: 50%;
+}
